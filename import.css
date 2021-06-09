@@ -9,7 +9,7 @@
   .primary-menu {
       @apply flex h-full items-center;
   }
-  h1{
+  .product_title{
     @apply text-4xl font-normal uppercase;
   }
 @tailwind utilities;

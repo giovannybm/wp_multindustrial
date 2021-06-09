@@ -608,7 +608,7 @@ video {
   height: 100%;
 }
 
-h1{
+.product_title{
   font-weight: 400;
   font-size: 2.25rem;
   line-height: 2.5rem;
