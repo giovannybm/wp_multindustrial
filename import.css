@@ -6,7 +6,7 @@
     -moz-transition: ease-out .35s;
     -webkit-transition: ease-out .35s;
   }
-  .primary-menu{
-      @apply flex h-full items-center hidden lg:flex;
+  .primary-menu {
+      @apply flex h-full items-center;
   }
 @tailwind utilities;
