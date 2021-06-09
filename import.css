@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
+.sub-menu {
+    @apply invisible opacity-0 flex absolute  left-0 w-full bg-gray-300 h-12 text-blue-multi-2;
+    transition: ease-out .35s;-moz-transition: ease-out .35s;-webkit-transition: ease-out .35s;
+  }
 @tailwind utilities;
